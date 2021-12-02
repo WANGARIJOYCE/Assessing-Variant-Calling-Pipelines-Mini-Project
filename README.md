@@ -21,6 +21,19 @@ To design a standard variant calling pipeline that is effective and reliable for
 To evaluate existing varinat calling pipelines, fill in existing gaps and modify the pipelines to suit anlysis of insect and pathogen data.
 
 
+## Aim
+This mini-project aims to review existing variant calling pipelines, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data. Review the workflows using the following criteria:
+
+- How easy are they to set up and use? Do they provide accessible documentation and tutorials?
+- Are they fast and easily scalable based on available compute resources?
+- Can they scale to the cloud?
+- Can they be used on a variety of data, including insects, pathogens and microbes (virus and bacteria)
+- Are they implemented in the latest specifications and versions of the tools? For example, Whether the pipeline implements Nextflow DSL2 syntax and docker or singularity containers
+- Are they well and regularly maintained? When were they updated last?
+
+
+
+
 ## Background information
 ### What is Genetic Variation?
 - This refers to the difference in the DNA sequences between individuals in a population.
