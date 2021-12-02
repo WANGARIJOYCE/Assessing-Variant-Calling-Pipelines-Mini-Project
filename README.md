@@ -80,4 +80,4 @@ The goal is to obtain a vcf (variant calling format) file that shows variants fo
 3. Know the genotype for each position
 4. look across all samples and determine which sites are variants.
 
-
+[Here](https://github.com/WANGARIJOYCE/Assessing-Variant-Calling-Pipelines-Mini-Project/issues/4) is a link to our project road map
