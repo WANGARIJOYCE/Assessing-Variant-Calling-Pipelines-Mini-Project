@@ -15,4 +15,7 @@ This mini-project involves Assessing various variant calling pipelines inorder t
 - Rose Wambui
 
 ## VISION
-To design a variant calling pipeline that is effective for analyzing insect and pathogen data. after evaluating existing variant calling  pipelines, pick out the ones that
+To design a standard variant calling pipeline that is effective and reliable for analyzing insect and pathogen data, that will be adopted across various regions of the world.
+
+## MISSION
+To evaluate existing varinat calling pipelines, fill in existing gaps and modify the pipelines to suit anlysis of insect and pathogen data.
