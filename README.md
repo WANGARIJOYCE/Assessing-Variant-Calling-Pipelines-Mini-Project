@@ -41,9 +41,9 @@ To evaluate existing varinat calling pipelines, fill in existing gaps and modify
 - Germline variations are of more importance relative to somatic varince since germline variations can be inherited to successive generations affecting population dynamics and ultimately population evolution.
 
 ### Types of Genetic Variation
-- Are of two categories, that is Single base substitution, that include, SNPs, Indels and Structural variations, that include Copy number variation.
 
-  #### 1. Single Nucleotide Polymorphism (SNPs)
+  #### 1. Single Base pair substitution
+  
 - These are also known as single nucleotide polymorphisms (SNPs) and involve one nucleic acid variation at a specific locus on a genome/chromosome.
 - They can be used to predict how an individual would respond to drugs of a particular class, susceptibilty to certain environmental stimulus and well predisposal to certain diseases
 - Also, they can be helpful in tracking inheritable of disease genes within a family.
