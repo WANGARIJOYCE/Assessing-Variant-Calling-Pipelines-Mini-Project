@@ -68,5 +68,3 @@ The goal is to obtain a vcf (variant calling format) file that shows variants fo
 4. look across all samples and determine which sites are variants.
 
 
-This [Road map](https://github.com/WANGARIJOYCE/Assessing-Variant-Calling-Pipelines-Mini-Project/milestone/1) is proposed work plan for achieving our goal for this project.
-
