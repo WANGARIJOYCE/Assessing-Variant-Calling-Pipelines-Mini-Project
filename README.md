@@ -36,15 +36,14 @@ To evaluate existing varinat calling pipelines, fill in existing gaps and modify
 ## Background information
 ### What is Genetic Variation?
 - This refers to the difference in the DNA sequences between individuals in a population.
-- These are specific regions within a genome that differ between genomes.
-- They occur both in the germ cells (sperm and egg) and body cells(somatic).
+- They can occur in both the germ cells (sperm and egg) and body cells(somatic).
 - Germline variations are of more importance relative to somatic varince since germline variations can be inherited to successive generations affecting population dynamics and ultimately population evolution.
 
 ### Types of Genetic Variation
 
   #### 1. Single Base pair substitution
   
-- These are also known as single nucleotide polymorphisms (SNPs) and involve one nucleic acid variation at a specific locus on a genome/chromosome.
+- These are also known as single nucleotide polymorphisms (SNPs) and involve one nucleic acid substitution
 - They can be used to predict how an individual would respond to drugs of a particular class, susceptibilty to certain environmental stimulus and well predisposal to certain diseases
 -  They can be helpful in tracking inheritable of diseases within a family.
 - They are of two types:
