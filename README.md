@@ -1,6 +1,6 @@
 # Assessing-Variant-Calling-Pipelines-Mini-Project
 ## Overview
-This mini-project involves Assessing various variant calling pipelines inorder to come up with an optimized/standardized variant calling pipeline for analyzing insect and pathogen data.
+This mini-project involves assessing various variant calling pipelines inorder to come up with an optimized/standardized variant calling pipeline for analyzing insect and pathogen data.
 
 
 ## Contributors
@@ -46,15 +46,15 @@ To evaluate existing varinat calling pipelines, fill in existing gaps and modify
   
 - These are also known as single nucleotide polymorphisms (SNPs) and involve one nucleic acid variation at a specific locus on a genome/chromosome.
 - They can be used to predict how an individual would respond to drugs of a particular class, susceptibilty to certain environmental stimulus and well predisposal to certain diseases
-- Also, they can be helpful in tracking inheritable of disease genes within a family.
+-  They can be helpful in tracking inheritable of diseases within a family.
 - They are of two types:
 
- **Transition**; This involves the interchange between purines; between Adenine and Guanine and interchange between pyrimidines; between Cytosine and Thymine
+ **Transition:** This involves the interchange between purines; between Adenine and Guanine and interchange between pyrimidines; between Cytosine and Thymine
 
- **Transversion**; This involves interchange between a purine and a pyrimidine for example, between Adenine and Cytosine
+ **Transversion:** This involves interchange between a purine and a pyrimidine for example, between Adenine and Cytosine
 
   #### 2. Insertion or deletion (Indels)
-- These are classified as small genetic mutations and involve the insertion or deletion of nucleotide bases and can range from two to hundreds of base-pairs in length
+- These are classified as small genetic mutations and involve the insertion or deletion of nucleotide bases and can range from one to hundreds of base-pairs in length
 
  #### 3. Structural Variation
 
@@ -75,9 +75,9 @@ Variant calling is the process by which variants are identified from sequence da
 The goal is to obtain a vcf (variant calling format) file that shows variants for all individuals in a given population 
 
   ##### Intuition
-1. starting point-raw sequences
+1. Starting point-raw sequences
 2. Know where they align
 3. Know the genotype for each position
-4. look across all samples and determine which sites are variants.
+4. Look across all samples and determine which sites are variants.
 
 [Here](https://github.com/WANGARIJOYCE/Assessing-Variant-Calling-Pipelines-Mini-Project/issues/4) is a link to our project road map
